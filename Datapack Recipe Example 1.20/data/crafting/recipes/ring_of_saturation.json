@@ -14,9 +14,17 @@
     }
   },
   "result": {
-    "item": "justpotionrings:ring",
-    "nbt": {
+    "id": "justpotionrings:ring",
+    "components": {
       "effect" : "minecraft:saturation"
+      "effect" : "minecraft:strength"
+      "effect" : "minecraft:resistance"
+      "effect" : "minecraft:speed"
+      "effect" : "minecraft:haste"
+      "effect" : "minecraft:fire_resistance"
+      "effect" : "minecraft:instant_health"
+      "effect" : "minecraft:hero_of_the_village"
+
     }
   }
 }
